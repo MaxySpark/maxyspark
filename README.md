@@ -22,24 +22,11 @@ I'm a passionate Software Developer with **6+ years** of experience building sca
 
 ## 🏆 Career Highlights
 
-- 🚀 **Lead Developer** at SixthSens AI, building AI-powered recruitment platforms
-- 🧠 Built and scaled backend systems for **SpringVerify** and **Albus (AI Slack Bot)** at Springworks
-- 💼 Spearheaded full-stack product teams across EdTech, HRTech, and Manufacturing at RapidFork
-- 🔌 Integrated OpenAI, Portkey, Daily.co, and more into real-world SaaS tools
-- ⛓️ Deployed blockchain apps (ERC20), Kafka systems, and real-time websocket architectures
-
----
-
-## 💼 Work Experience
-
-| Role                       | Company & Duration                        | Highlights                                                     |
-|----------------------------|-------------------------------------------|----------------------------------------------------------------|
-| **Lead Developer**         | SixthSens AI (Apr 2024 - Present)         | Recruitbots AI, AWS, Node.js, React, Microservices             |
-| **Software Dev Engineer**  | Springworks (Apr 2021 - Jan 2024)         | SpringVerify, Albus, AWS, OpenAI, MongoDB, MySQL               |
-| **Sr. Software Developer** | RapidFork (Aug 2020 - Mar 2021)           | Produgie, Gurukul Bytes, GCP, Angular, Scala                   |
-| **Software Developer**     | Promote Digitally (Dec 2019 - Jul 2020)   | Full-stack apps, NestJS, React, Solidity                       |
-| **Junior Developer**       | VVinners (Sep 2019 - Dec 2019)            | Blockchain, Kafka, WebSockets                                  |
-| **Software Developer**     | Confined Materials (Sep 2018 - Oct 2019)  | AWS MediaConvert, Stripe API, Angular, Express                 |
+- 🚀 Led development of AI-powered platforms and SaaS products from the ground up
+- 🧠 Designed and scaled backend systems serving thousands of users
+- 💼 Orchestrated full-stack teams across EdTech, HRTech, and Manufacturing domains
+- 🔌 Integrated cutting-edge APIs (AI/ML, video, communication) into real-world tools
+- ⛓️ Built and deployed blockchain apps, event-driven microservices, and real-time architectures
 
 ---
 
@@ -58,16 +45,6 @@ I'm a passionate Software Developer with **6+ years** of experience building sca
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxyspark&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxyspark&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
